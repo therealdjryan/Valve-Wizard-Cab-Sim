@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name border-motif)(type KiCad)(uri ${KIPRJMOD}/border-motif)(options "")(descr ""))
+)
